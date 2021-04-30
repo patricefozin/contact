@@ -6,4 +6,4 @@ From tomcat:8-jre8
 
 MAINTAINER "Patrice Fozin"
 
-COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
+COPY ./webapp/target/billionaire.war /usr/local/tomcat/webapps

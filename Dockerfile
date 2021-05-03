@@ -2,7 +2,7 @@
 
 From tomcat:8-jre8
 
-# Maintainer
+# Maintainer boss
 
 MAINTAINER "Patrice Fozin"
 
